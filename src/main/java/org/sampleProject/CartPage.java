@@ -29,7 +29,7 @@ public class CartPage extends AbstractComponents {
 
 
 //     driver.findElement(By.xpath("//div[@class='actions']/descendant::a")).click();
-
+// New line
 
 
     public boolean getMatch(String productName){
