@@ -1,0 +1,5 @@
+org\BaseTestConfig\BaseTest$1.class
+org\BaseTestConfig\BaseTest.class
+org\sampleProject\MainTest.class
+org\sampleProject\StandAloneTest.class
+org\sampleProject\ErrorValidations.class
