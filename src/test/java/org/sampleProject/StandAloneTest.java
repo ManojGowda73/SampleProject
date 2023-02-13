@@ -17,6 +17,7 @@ public class StandAloneTest {
 
         String productName = "ZARA COAT 3";
         WebDriverManager.chromedriver().setup();
+        //testing git push from bbxbbxbxx
         WebDriver driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.get("https://rahulshettyacademy.com/client");
